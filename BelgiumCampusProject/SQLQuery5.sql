@@ -1,0 +1,11 @@
+/****** Script for SelectTopNRows command from SSMS  ******/
+SELECT TOP (1000) [StudentID]
+      ,[StudentName]
+      ,[StudentSurname]
+      ,[DateOfBirth]
+      ,[Gender]
+      ,[PhoneNumber]
+      ,[Address]
+      ,[CourseCode]
+      ,[StudentImage]
+  FROM [PRETORIACAMPUS].[dbo].[Table_1]

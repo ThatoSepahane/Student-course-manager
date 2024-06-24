@@ -1,0 +1,29 @@
+C:\Users\Student\Documents\Visual Studio 2017\BelgiumCampusProject\BelgiumCampusProject\bin\Debug\BelgiumCampusProject.exe.config
+C:\Users\Student\Documents\Visual Studio 2017\BelgiumCampusProject\BelgiumCampusProject\bin\Debug\BelgiumCampusProject.exe
+C:\Users\Student\Documents\Visual Studio 2017\BelgiumCampusProject\BelgiumCampusProject\bin\Debug\BelgiumCampusProject.pdb
+C:\Users\Student\Documents\Visual Studio 2017\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2017\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.Delete.resources
+C:\Users\Student\Documents\Visual Studio 2017\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.Form1.resources
+C:\Users\Student\Documents\Visual Studio 2017\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.Login.resources
+C:\Users\Student\Documents\Visual Studio 2017\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2017\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.Read.resources
+C:\Users\Student\Documents\Visual Studio 2017\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.Search.resources
+C:\Users\Student\Documents\Visual Studio 2017\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.csproj.GenerateResource.cache
+C:\Users\Student\Documents\Visual Studio 2017\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2017\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.exe
+C:\Users\Student\Documents\Visual Studio 2017\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.pdb
+C:\Users\Kgalalelo\Documents\2nd Year\PRG262\BelgiumCampusProject\BelgiumCampusProject\bin\Debug\BelgiumCampusProject.exe.config
+C:\Users\Kgalalelo\Documents\2nd Year\PRG262\BelgiumCampusProject\BelgiumCampusProject\bin\Debug\BelgiumCampusProject.exe
+C:\Users\Kgalalelo\Documents\2nd Year\PRG262\BelgiumCampusProject\BelgiumCampusProject\bin\Debug\BelgiumCampusProject.pdb
+C:\Users\Kgalalelo\Documents\2nd Year\PRG262\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.csproj.AssemblyReference.cache
+C:\Users\Kgalalelo\Documents\2nd Year\PRG262\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kgalalelo\Documents\2nd Year\PRG262\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.Delete.resources
+C:\Users\Kgalalelo\Documents\2nd Year\PRG262\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.Form1.resources
+C:\Users\Kgalalelo\Documents\2nd Year\PRG262\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.Login.resources
+C:\Users\Kgalalelo\Documents\2nd Year\PRG262\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.Properties.Resources.resources
+C:\Users\Kgalalelo\Documents\2nd Year\PRG262\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.Read.resources
+C:\Users\Kgalalelo\Documents\2nd Year\PRG262\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.Search.resources
+C:\Users\Kgalalelo\Documents\2nd Year\PRG262\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.csproj.GenerateResource.cache
+C:\Users\Kgalalelo\Documents\2nd Year\PRG262\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.csproj.CoreCompileInputs.cache
+C:\Users\Kgalalelo\Documents\2nd Year\PRG262\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.exe
+C:\Users\Kgalalelo\Documents\2nd Year\PRG262\BelgiumCampusProject\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.pdb
